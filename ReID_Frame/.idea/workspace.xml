@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1476aa2e-1f11-430b-9def-a034bf76b72f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="377" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1rQj88OJCTwX9TDuC3UDnCw7MXj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../My_ResNet50" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\WorkSpace\PyCharme-workspace\ReID_Frame\log\Cuhk03\labeled" />
+      <recent name="E:\WorkSpace\PyCharme-workspace\ReID_Frame\log\Market1501" />
+      <recent name="E:\WorkSpace\PyCharme-workspace\ReID_Frame\log\DukeMTMCreID" />
+      <recent name="E:\WorkSpace\PyCharme-workspace\ReID_Frame\log\DukeMTMCreID\softmax_metric" />
+      <recent name="E:\WorkSpace\PyCharme-workspace\MyReID-Project\log\softmax_trihard" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\WorkSpace\PyCharme-workspace\MyReID-Project\Utils" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="cfg" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MyReID-Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Configs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Configs/cfg.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="data_manager" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MyReID-Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Utils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Utils/data_manager.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="losses" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MyReID-Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Utils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Utils/losses.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MyReID-Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tstDebug" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MyReID-Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tstDebug.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.cfg" />
+      <item itemvalue="Python.losses" />
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.tstDebug" />
+      <item itemvalue="Python.data_manager" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.data_manager" />
+        <item itemvalue="Python.tstDebug" />
+        <item itemvalue="Python.cfg" />
+        <item itemvalue="Python.losses" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1476aa2e-1f11-430b-9def-a034bf76b72f" name="Default Changelist" comment="" />
+      <created>1618915046050</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618915046050</updated>
+      <workItem from="1618915049155" duration="47795000" />
+      <workItem from="1619085549987" duration="31990000" />
+      <workItem from="1619344818776" duration="22347000" />
+      <workItem from="1620284579321" duration="23913000" />
+      <workItem from="1620481944716" duration="6574000" />
+      <workItem from="1620705432850" duration="3663000" />
+      <workItem from="1620782607780" duration="1586000" />
+      <workItem from="1620816360655" duration="1885000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="479" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1619513539342">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="479" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2048.1112/2560.0.1536.824@0.0.2048.1112" timestamp="1619513539342" />
+    <state x="604" y="230" key="FileChooserDialogImpl" timestamp="1620956606328">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="604" y="230" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1620956606328" />
+    <state x="805" y="311" key="FileChooserDialogImpl/0.0.2048.1112/2560.0.1536.824@0.0.2048.1112" timestamp="1620782868002" />
+    <state width="2005" height="286" key="GridCell.Tab.0.bottom" timestamp="1620481716324">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="286" key="GridCell.Tab.0.bottom/0.0.2048.1112/2560.0.1536.824@0.0.2048.1112" timestamp="1620481716324" />
+    <state width="2005" height="286" key="GridCell.Tab.0.center" timestamp="1620481716324">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="286" key="GridCell.Tab.0.center/0.0.2048.1112/2560.0.1536.824@0.0.2048.1112" timestamp="1620481716324" />
+    <state width="2005" height="286" key="GridCell.Tab.0.left" timestamp="1620481716324">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="286" key="GridCell.Tab.0.left/0.0.2048.1112/2560.0.1536.824@0.0.2048.1112" timestamp="1620481716324" />
+    <state width="2005" height="286" key="GridCell.Tab.0.right" timestamp="1620481716324">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="286" key="GridCell.Tab.0.right/0.0.2048.1112/2560.0.1536.824@0.0.2048.1112" timestamp="1620481716324" />
+    <state width="2005" height="298" key="GridCell.Tab.1.bottom" timestamp="1620437867780">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="298" key="GridCell.Tab.1.bottom/0.0.2048.1112/2560.0.1536.824@0.0.2048.1112" timestamp="1620437867780" />
+    <state width="2005" height="298" key="GridCell.Tab.1.center" timestamp="1620437867780">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="298" key="GridCell.Tab.1.center/0.0.2048.1112/2560.0.1536.824@0.0.2048.1112" timestamp="1620437867780" />
+    <state width="2005" height="298" key="GridCell.Tab.1.left" timestamp="1620437867780">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="298" key="GridCell.Tab.1.left/0.0.2048.1112/2560.0.1536.824@0.0.2048.1112" timestamp="1620437867780" />
+    <state width="2005" height="298" key="GridCell.Tab.1.right" timestamp="1620437867780">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="298" key="GridCell.Tab.1.right/0.0.2048.1112/2560.0.1536.824@0.0.2048.1112" timestamp="1620437867780" />
+    <state x="526" y="198" key="SettingsEditor" timestamp="1619705458273">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="526" y="198" key="SettingsEditor/0.0.2048.1112/2560.0.1536.824@0.0.2048.1112" timestamp="1619705458273" />
+    <state x="21" y="85" width="1862" height="926" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1619014692325">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="21" y="85" width="1862" height="926" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.2048.1112/2560.0.1536.824@0.0.2048.1112" timestamp="1619014692325" />
+    <state x="686" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1620782608168">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="686" y="380" key="com.intellij.ide.util.TipDialog/0.0.2048.1112/2560.0.1536.824@0.0.2048.1112" timestamp="1620782608168" />
+    <state x="666" y="283" width="700" height="530" key="recent.locations.popup" timestamp="1619513488666">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="666" y="283" width="700" height="530" key="recent.locations.popup/0.0.2048.1112/2560.0.1536.824@0.0.2048.1112" timestamp="1619513488666" />
+    <state x="687" y="243" width="672" height="678" key="search.everywhere.popup" timestamp="1620288195010">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="687" y="243" width="672" height="678" key="search.everywhere.popup/0.0.2048.1112/2560.0.1536.824@0.0.2048.1112" timestamp="1620288195010" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MyReID_Project$dataset_loader__1_.coverage" NAME="dataset_loader (1) Coverage Results" MODIFIED="1618930766588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Utils" />
+    <SUITE FILE_PATH="coverage/MyReID_Project$data_manager.coverage" NAME="data_manager Coverage Results" MODIFIED="1618926042802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Utils" />
+    <SUITE FILE_PATH="coverage/MyReID_Project$samplers.coverage" NAME="samplers Coverage Results" MODIFIED="1619234275478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Utils" />
+    <SUITE FILE_PATH="coverage/MyReID_Project$losses.coverage" NAME="losses Coverage Results" MODIFIED="1619314096437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Utils" />
+    <SUITE FILE_PATH="coverage/MyReID_Project$cfg.coverage" NAME="cfg Coverage Results" MODIFIED="1619318497320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Configs" />
+    <SUITE FILE_PATH="coverage/MyReID_Project$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1618928725433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Utils" />
+    <SUITE FILE_PATH="coverage/ReID_Frame$data_manager.coverage" NAME="data_manager Coverage Results" MODIFIED="1620306207498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Utils" />
+    <SUITE FILE_PATH="coverage/MyReID_Project$data_loader.coverage" NAME="data_loader Coverage Results" MODIFIED="1618929677234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Utils" />
+    <SUITE FILE_PATH="coverage/MyReID_Project$ResNet.coverage" NAME="ResNet Coverage Results" MODIFIED="1618985931313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules" />
+    <SUITE FILE_PATH="coverage/MyReID_Project$main.coverage" NAME="main Coverage Results" MODIFIED="1619512360376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyReID_Project$tstDebug.coverage" NAME="tstDebug Coverage Results" MODIFIED="1619513216200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyReID_Project$util.coverage" NAME="util Coverage Results" MODIFIED="1619230423401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Utils" />
+    <SUITE FILE_PATH="coverage/MyReID_Project$transform.coverage" NAME="transform Coverage Results" MODIFIED="1618982955562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Utils" />
+    <SUITE FILE_PATH="coverage/ReID_Frame$main.coverage" NAME="main Coverage Results" MODIFIED="1620465211269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
